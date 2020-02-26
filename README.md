@@ -2,7 +2,7 @@
 
 This repository contain the source code & hardware design of the lueur project. Lueur is a pair of internet connected cubes who can light up each other using an ESP8266, an RGB LED and AWS IoT.
 
-![Lueur 3D rendering](https://github.com/aburio/lueur/blob/master/documentation/lueur-3d-rendering.jpg "Lueur 3D rendering")
+![Lueur 3D rendering](documentation/lueur-3D-rendering.jpg?raw=true "Lueur 3D rendering")
 
 ## Build with
 
